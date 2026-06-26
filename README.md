@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/29380650/README.md)
-# Booking.com Automation – Merged Team Suite
+# Booking.com Automation 
 
 This is the merged result of everyone's individual automation submissions
 for testing **https://www.booking.com**. It is a single Maven **multi-module**
